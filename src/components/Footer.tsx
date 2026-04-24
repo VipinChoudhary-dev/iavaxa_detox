@@ -21,7 +21,7 @@ export function Footer() {
         </div>
         <div>
           <h4 className="font-semibold mb-3 text-gold">Contact</h4>
-          <p className="text-sm opacity-80">support@iavaxa.in</p>
+          <p className="text-sm opacity-80">sanctuarystriker@gmail.com</p>
           <p className="text-xs opacity-70 mt-2">For order queries, contact us via email above.</p>
         </div>
       </div>

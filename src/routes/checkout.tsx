@@ -155,7 +155,7 @@ function Checkout() {
 
             <p className="text-xs text-muted-foreground text-center px-2">
               For further communication regarding your order, contact at email{" "}
-              <a href="mailto:support@iavaxa.in" className="text-primary font-semibold underline">support@iavaxa.in</a>
+              <a href="mailto:sanctuarystriker@gmail.com" className="text-primary font-semibold underline">sanctuarystriker@gmail.com</a>
             </p>
           </form>
 
@@ -189,6 +189,16 @@ function Checkout() {
               <div className="text-[11px] text-muted-foreground mt-1">Customer pays ₹250 on delivery (COD)</div>
             </div>
 
+            <div className="mt-4 p-4 rounded-xl bg-primary/5 border border-primary/10">
+              <p className="text-xs text-primary leading-relaxed">
+                <span className="font-semibold block mb-1">Why ₹49 Advance?</span>
+                To ensure smooth delivery and minimize order returns (RTO), our team will personally contact each customer to verify their details before dispatch.
+              </p>
+              <p className="text-xs text-primary leading-relaxed mt-2">
+                This extra verification step helps us maintain one of the lowest RTO rates in the market, ensuring higher delivery success and better profitability for you.
+              </p>
+            </div>
+
             <div className="mt-5 space-y-1.5 text-xs text-muted-foreground">
               <div>✓ 100% Herbal &amp; Safe</div>
               <div>✓ Lowest RTO ₹49 (Resellers)</div>
@@ -197,7 +207,7 @@ function Checkout() {
 
             <div className="mt-4 pt-4 border-t border-border text-[11px] text-muted-foreground leading-relaxed">
               For further communication regarding your order, contact at email{" "}
-              <a href="mailto:support@iavaxa.in" className="text-primary font-semibold">support@iavaxa.in</a>
+              <a href="mailto:sanctuarystriker@gmail.com" className="text-primary font-semibold">sanctuarystriker@gmail.com</a>
             </div>
           </aside>
         </div>
@@ -256,7 +266,7 @@ function Checkout() {
 
             <div className="mt-5 p-4 rounded-xl bg-gradient-hero border border-border/60 text-xs text-muted-foreground leading-relaxed">
               For further communication regarding your order, contact at email{" "}
-              <a href="mailto:support@iavaxa.in" className="text-primary font-semibold">support@iavaxa.in</a>
+              <a href="mailto:sanctuarystriker@gmail.com" className="text-primary font-semibold">sanctuarystriker@gmail.com</a>
             </div>
 
             <Link
